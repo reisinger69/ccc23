@@ -1,6 +1,7 @@
 package reisinger.htl;
 
 public class Main {
+    //scheiß reisinger
 
     public static void main(String[] args) {
         countCells("O-O-O-O-O-O-O-O-O-O-\n" +
